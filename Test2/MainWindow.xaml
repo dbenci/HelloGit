@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Test2"
         mc:Ignorable="d"
+        Background="AliceBlue"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Label FontSize="20" Margin="209,144,217,132">Hello Git</Label>
     </Grid>
 </Window>
